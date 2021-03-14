@@ -28,4 +28,18 @@
 
 ``` Send Request```
 
+## To access the pgAdmin
 
+``` http://localhost:9000```
+
+### Email Anddress
+
+``` admin@user.com ```
+
+### Password
+
+``` 123456``` 
+
+### To view the database, enter the password
+
+``` postgres ```
